@@ -1,0 +1,23 @@
+CellType,Marker_PCC,Method,DatasetID
+02 NP-CT-L6b Glut,0.10618013600029315,cell2location,resolution_0.25_Zhuang-ABCA-1.009
+03 OB-CR Glut,0.5064261436749992,cell2location,resolution_0.25_Zhuang-ABCA-1.009
+05 OB-IMN GABA,0.5664023525774593,cell2location,resolution_0.25_Zhuang-ABCA-1.009
+09 CNU-LGE GABA,0.1065034493905135,cell2location,resolution_0.25_Zhuang-ABCA-1.009
+10 LSX GABA,0.07892656155880981,cell2location,resolution_0.25_Zhuang-ABCA-1.009
+13 CNU-HYa Glut,0.047126877878010336,cell2location,resolution_0.25_Zhuang-ABCA-1.009
+30 Astro-Epen,0.42215469789505095,cell2location,resolution_0.25_Zhuang-ABCA-1.009
+31 OPC-Oligo,0.2408193640307236,cell2location,resolution_0.25_Zhuang-ABCA-1.009
+32 OEC,0.6498770363564327,cell2location,resolution_0.25_Zhuang-ABCA-1.009
+33 Vascular,0.49687038206511336,cell2location,resolution_0.25_Zhuang-ABCA-1.009
+34 Immune,0.2939125448042137,cell2location,resolution_0.25_Zhuang-ABCA-1.009
+02 NP-CT-L6b Glut,0.22642535713740078,CARD,resolution_0.25_Zhuang-ABCA-1.009
+03 OB-CR Glut,0.38273216423435374,CARD,resolution_0.25_Zhuang-ABCA-1.009
+05 OB-IMN GABA,0.520115332684896,CARD,resolution_0.25_Zhuang-ABCA-1.009
+09 CNU-LGE GABA,0.32450722160836487,CARD,resolution_0.25_Zhuang-ABCA-1.009
+10 LSX GABA,0.3154013573511762,CARD,resolution_0.25_Zhuang-ABCA-1.009
+13 CNU-HYa Glut,0.1494629251282547,CARD,resolution_0.25_Zhuang-ABCA-1.009
+30 Astro-Epen,0.3872065888615927,CARD,resolution_0.25_Zhuang-ABCA-1.009
+31 OPC-Oligo,0.2908721522062296,CARD,resolution_0.25_Zhuang-ABCA-1.009
+32 OEC,0.6393421575628062,CARD,resolution_0.25_Zhuang-ABCA-1.009
+33 Vascular,0.5103514388549688,CARD,resolution_0.25_Zhuang-ABCA-1.009
+34 Immune,0.3546673060205538,CARD,resolution_0.25_Zhuang-ABCA-1.009
